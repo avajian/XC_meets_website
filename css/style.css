@@ -74,6 +74,11 @@ body {
     border: white 2px solid;
 }
 
+.dark-mode .skip-link {
+    background: black;
+    border: white 2px solid;
+}
+
 /* new additional homepage */
 
 .meet-home a {
